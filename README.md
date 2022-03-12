@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shubhammistry
-- 👀 I’m interested in developing applications  
-- 🌱 I’m currently learning Java, Python, ANdroid.
+- 👋 Hi, I’m @Shubham Mistry
+- 👀 I’m interested in developing,analysing and learning new technologies.
+- 🌱 I’m currently learning Python, Data Analytics
 - 📫 How to reach me 9172920678
 
 <!---
